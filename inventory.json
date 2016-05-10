@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "color": "FireBrick",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Element",
+      "year": "2006",
+      "price": "8999",
+      "color": "Silver",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Honda Element with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Highlander",
+      "year": "2006",
+      "price": "8999",
+      "color": "Blue",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Toyota Highlander with only 25000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
